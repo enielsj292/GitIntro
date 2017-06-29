@@ -1,2 +1,2 @@
 # GitIntro
-Preview the Sites: enielsj292.github.io/GitIntro/index.html
+Preview the Sites: enielsj292.github.io/GitIntro/index.htm
